@@ -1,9 +1,8 @@
 body {
   background-color: #444444;
   color: #dddddd;
-  font-family: Arial, Helvetical, san-seriff;
-  margin:10% 20%;
-  
+  font-family: Arial, Helvetica, san-seriff;
+  margin:10% 20%;  
 }
 
 .exp-header{
@@ -15,22 +14,38 @@ body {
 }
 
 .Shutterfly{
-    text-align: center;
+  text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom:1px solid #dddddd;
-  background-color: rgba(0,0, 0.1);  
+  background-color: rgba(0,0, 0.1);
+  font-family: Arial, Helvetica, san-seriff;
+}
+
+.li {
+  font-family: Arial, Helvetica, San-seriff;
+  font-style: Normal;
+  margin:10% 20%;   
 }
 
 .material{
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  font-family: Arial, Helvetical, san-seriff;
+  font-family: Arial, Helvetica, san-seriff;
+  margin: 10% 20%;
+  font-style: Normal;
+     
+}
+.school {
+  font-family:Arial,Helvetica, san-seriff;
+  font-style: Normal;
 }
 .Education{
+  text-transform: uppercase;
+  text-align: center;
   background-color: rgba(0,0, 0.1);
   border-top:1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
+  font-family: Arial, Helvetical, san-seriff;
 }
-
